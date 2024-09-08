@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">63_EditButton</string>
+    <string name="title">Всё наоборот</string>
+    <string name="input_field">Поле ввода текста</string>
+    <string name="transform">Преобразовать</string>
+    <string name="result">Результат</string>
+    <string name="symbols">Количество символов</string>
+</resources>
